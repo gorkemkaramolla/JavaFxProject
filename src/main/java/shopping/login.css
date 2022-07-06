@@ -1,0 +1,30 @@
+.root{
+    -fx-font-family: 'Courier New', monospace;
+    -fx-font-size:20px;
+    -fx-font-weight:bold;
+    -fx-background-image: url("images/background.jpg");
+    -fx-background-size:cover;
+    }
+.button
+{
+    -fx-background-color:transparent;
+       -fx-border-style:solid;
+        -fx-border-width:0.4px;
+        -fx-border-color:whitesmoke;
+}
+#header
+{
+    -fx-font-size:32px;
+         -fx-font-weight:100;
+        -fx-border-style:hidden hidden solid hidden;
+        -fx-border-width:1px;
+        -fx-label-padding: 20 0 0 0;
+        -fx-border-color:whitesmoke;
+    -fx-font-family:"Trebuchet MS", sans-serif;
+
+
+}
+.button:hover
+{
+    -fx-border-color:#6975a9;
+}

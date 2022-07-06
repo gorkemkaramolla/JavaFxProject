@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javafx-base-12-ea+12-linux">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../deneme/javafx-base-12-ea+12-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../deneme/javafx-graphics-12-ea+12-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../deneme/javafx-swing-12-ea+12-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
